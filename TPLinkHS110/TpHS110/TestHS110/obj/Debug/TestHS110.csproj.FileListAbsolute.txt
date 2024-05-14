@@ -1,0 +1,24 @@
+D:\teddy\TpHS110\TestHS110\bin\Debug\TestHS110.exe.config
+D:\teddy\TpHS110\TestHS110\bin\Debug\TestHS110.exe
+D:\teddy\TpHS110\TestHS110\bin\Debug\TestHS110.pdb
+D:\teddy\TpHS110\TestHS110\obj\Debug\TestHS110.csproj.AssemblyReference.cache
+D:\teddy\TpHS110\TestHS110\obj\Debug\TestHS110.csproj.SuggestedBindingRedirects.cache
+D:\teddy\TpHS110\TestHS110\obj\Debug\TestHS110.csproj.CoreCompileInputs.cache
+D:\teddy\TpHS110\TestHS110\obj\Debug\TestHS110.exe
+D:\teddy\TpHS110\TestHS110\obj\Debug\TestHS110.pdb
+E:\2e année bts\projet a faire\cuypers\TPLinkHS110\TpHS110\TestHS110\obj\Debug\TestHS110.csproj.AssemblyReference.cache
+E:\2e année bts\projet a faire\cuypers\TPLinkHS110\TpHS110\TestHS110\obj\Debug\TestHS110.csproj.SuggestedBindingRedirects.cache
+E:\2e année bts\projet a faire\cuypers\TPLinkHS110\TpHS110\TestHS110\obj\Debug\TestHS110.csproj.CoreCompileInputs.cache
+E:\2e année bts\projet a faire\cuypers\TPLinkHS110\TpHS110\TestHS110\obj\Debug\TestHS110.exe
+E:\2e année bts\projet a faire\cuypers\TPLinkHS110\TpHS110\TestHS110\obj\Debug\TestHS110.pdb
+E:\2e année bts\projet a faire\cuypers\TPLinkHS110\TpHS110\TestHS110\bin\Debug\TestHS110.exe.config
+E:\2e année bts\projet a faire\cuypers\TPLinkHS110\TpHS110\TestHS110\bin\Debug\TestHS110.exe
+E:\2e année bts\projet a faire\cuypers\TPLinkHS110\TpHS110\TestHS110\bin\Debug\TestHS110.pdb
+D:\ted\TPLinkHS110\TpHS110\TestHS110\bin\Debug\TestHS110.exe.config
+D:\ted\TPLinkHS110\TpHS110\TestHS110\bin\Debug\TestHS110.exe
+D:\ted\TPLinkHS110\TpHS110\TestHS110\bin\Debug\TestHS110.pdb
+D:\ted\TPLinkHS110\TpHS110\TestHS110\obj\Debug\TestHS110.csproj.AssemblyReference.cache
+D:\ted\TPLinkHS110\TpHS110\TestHS110\obj\Debug\TestHS110.csproj.SuggestedBindingRedirects.cache
+D:\ted\TPLinkHS110\TpHS110\TestHS110\obj\Debug\TestHS110.csproj.CoreCompileInputs.cache
+D:\ted\TPLinkHS110\TpHS110\TestHS110\obj\Debug\TestHS110.exe
+D:\ted\TPLinkHS110\TpHS110\TestHS110\obj\Debug\TestHS110.pdb
